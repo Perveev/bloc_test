@@ -1,0 +1,3 @@
+class NewTask {
+  String title = '';
+}
